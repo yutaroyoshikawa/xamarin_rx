@@ -1,7 +1,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace SkyFront.Services
+namespace hoge.Services
 {
     public class ApiGetService
     {
